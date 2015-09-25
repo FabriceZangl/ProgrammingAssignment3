@@ -7,23 +7,23 @@ It is available from this link: http://archive.ics.uci.edu/ml/datasets/Human+Act
 
 
 # Features included and summarized
-tBodyAcc_XYZ
-tGravityAcc_XYZ
-tBodyAccJerk_XYZ
-tBodyGyro_XYZ
-tBodyGyroJerk_XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc_XYZ
-fBodyAccJerk_XYZ
-fBodyGyro_XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+TimeBodyAcc_XYZ
+TimeGravityAcc_XYZ
+TimeBodyAccJerk_XYZ
+TimeBodyGyro_XYZ
+TimeBodyGyroJerk_XYZ
+TimeBodyAccMag
+TimeGravityAccMag
+TimeBodyAccJerkMag
+TimeBodyGyroMag
+TimeBodyGyroJerkMag
+FrequencyBodyAcc_XYZ
+FrequencyBodyAccJerk_XYZ
+FrequencyBodyGyro_XYZ
+FrequencyBodyAccMag
+FrequencyBodyAccJerkMag
+FrequencyBodyGyroMag
+FrequencyBodyGyroJerkMag
 
 Each feature ending on '_XYZ' is a set of 3 measures identifying the 3_axial signals in the X, Y and Z directions.
 

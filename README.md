@@ -15,3 +15,4 @@ The files included in this repo are:
 * this README.md file
 * the codebook.md file describing the features kept in the data set.
 * the R-script per se in the run_analysis.r file
+* the tidied up dataset
