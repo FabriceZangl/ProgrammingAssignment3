@@ -12,6 +12,6 @@ Finally, this code assumes that the files to merge are already unzipped in the w
 
 ## Repo content
 The files included in this repo are:
-1. this README.md file
-2. the codebook.md file describing the features kept in the data set.
-3. the R-script per se in the run_analysis.r file
+* this README.md file
+* the codebook.md file describing the features kept in the data set.
+* the R-script per se in the run_analysis.r file
